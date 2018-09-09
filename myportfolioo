@@ -160,7 +160,7 @@ html,body{
 	width: 100%;
 	height: 100%;
 	background-color:purple;
-	//background-image:url(../user-images/githubusercontent/35624707/44273203-629dcd80-a25c-11e8-86fe-f3d13b57be48.jpg);
+	
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: relative;
